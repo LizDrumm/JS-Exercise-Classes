@@ -266,7 +266,7 @@ const manager = new ProjectManager ({
   });
 
   console.log (manager.standUp('web35_help'));
-  console.log (manager.debugsCode ( ,'JavaScript'));
+  console.log (manager.debugsCode (student.name,'JavaScript'));
 /*
   STRETCH PROBLEM (no tests!)
     - Extend the functionality of the Student by adding a prop called grade and setting it equal to a number between 1-100.
